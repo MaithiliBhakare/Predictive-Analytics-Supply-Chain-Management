@@ -19,6 +19,9 @@ Conclusion: From the past data, the linear increase in sales demand is observed.
 
 ![image](https://github.com/MaithiliBhakare/Predictive-Analytics-Supply-Chain-Management/blob/e1d8e6038cc9dfd69ce8fe1f164999086ab64007/Deseasonalized%20and%20regression%20Chart.png)
 
-## Third Case:
+## Third Case Study:
+The SignatureStove is used by professional chefs, restaurants, cafes, etc. It has the facility of 6 burners, and automatic temperature control, heating-cooling schedule, remote access. This high-tech stove has huge demand today. Regression statistics is carried out. The linear trend is observed with R-square = 9338 and P-value = 0. 
+
+The product seems to be stabilised in the market and has huge opportunities for increasing demand in future.
 
 ![image](https://github.com/MaithiliBhakare/Predictive-Analytics-Supply-Chain-Management/blob/e1d8e6038cc9dfd69ce8fe1f164999086ab64007/Regression%20Analysis.png)
