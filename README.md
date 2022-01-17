@@ -5,6 +5,7 @@ The sample dataset at left corner represents sales data of a icemaker machine. T
 The green and blue tables summarises the deseasonalised values for year 2019-2022. The seasonalised values, high and low sales for each year are determined. The chart depicts the same.
 
 From the above analysis we can conclude that, the mean sales value is 234. The performance of the product is very good and can be seen by the increasing sales from 2019 to 2021. The demand rose and company managed to cater the demand. However, 2022 did not show good results. That may be due to increased market competition.
+
 Conclusion: The comapny must evaluate and analyse market competition and upgrade it's product to survive their brand in the market.
 
 ![image](https://github.com/MaithiliBhakare/Predictive-Analytics-Supply-Chain-Management/blob/e1d8e6038cc9dfd69ce8fe1f164999086ab64007/Deseasonalized%20Chart.png)
